@@ -6,5 +6,8 @@
 - Microsoft Certified Professional
 - Xamarin Certified Mobile Developer
 
-# LinkedIn Profile
-[Mike Dumlao's LinkedIn Profile](www.linkedin.com/in/mikhail-dumlao-0b651714)
+# LinkedIn
+[My LinkedIn Profile](www.linkedin.com/in/mikhail-dumlao-0b651714)
+
+# GitHub
+[My GitHub Profile](https://github.com/mikhaild908)
