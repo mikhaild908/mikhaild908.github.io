@@ -32,6 +32,6 @@
 - Xamarin Certified Mobile Developer
 
 ## 📞 Contact
-| **Name**   | Mike Dumlao | 
-| ** GitHub**   | <a href="https://github.com/mikhaild908/">mikhaild908</a>|
-| **LinkedIn**   | <a href="https://www.linkedin.com/in/mikhail-dumlao-0b651714/" target="_blank">Visit Page</a> | 
+| **Name**   | Mike Dumlao |
+| **GitHub**   | <a href="https://github.com/mikhaild908/">mikhaild908</a>|
+| **LinkedIn**   | <a href="https://www.linkedin.com/in/mikhail-dumlao-0b651714/" target="_blank">Visit Page</a> |
