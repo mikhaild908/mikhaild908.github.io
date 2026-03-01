@@ -1,6 +1,6 @@
 # Software Engineer
 
-#### Technical Skills:
+## 🛠️ Technical Skills:
 - C# 
 - SQL 
 - Xamarin 
