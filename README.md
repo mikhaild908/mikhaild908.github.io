@@ -17,7 +17,7 @@
   
 ## 🎓 Education and Training
 - Sun Java Programming(SL-275) - Sun Microsystems - Makati City, Philippines (_JUL 2004_)
-- BS Geodetic Engineering - University of the Philippines Diliman - Quezon City, Philippines (_APR 2004_)
+- BS Geodetic Engineering - University of the Philippines - Quezon City, Philippines (_APR 2004_)
 - Client/Server Programming and Web Development - Skidmore College Computer Career Institute - White Plains, NY (_MAR 2001_)
 
 ## 💼 Work experience
