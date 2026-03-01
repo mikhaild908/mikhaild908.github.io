@@ -20,8 +20,16 @@
 - **Bachelor of Science in Geodetic Engineering** | <a href="https://upd.edu.ph/" target="_blank">University of the Philippines Diliman - Quezon City, Philippines</a> (_APR 2004_)
 - **Client/Server Programming and Web Development** | Skidmore College Computer Career Institute - White Plains, NY, USA (_MAR 2001_)
 
-## 💼 Work experience 
-
+## 💼 Work experience
+**Senior Software Engineer | TransPerfect (_JUL 2023 - Present_)**
+**Senior Software Engineer | DriveTime (_MAY 2022 - JUL 2023_)**
+**Senior Software Engineer | TechStyle Fashion Group (_NOV 2018 - MAY 2022_)**
+**Senior Consultant | Neudesic (_NOV 2013 - NOV 2018_)**
+**Senior Programmer | Karsten Manufacturing(Ping Golf) (_AUG 2010 - NOV 2013_)**
+**Programmer | Attainia (_MAR 2009 - AUG 2010_)
+**Programmer | Karsten Manufacturing(Ping Golf) (_JAN 2007 - MAR 2009_)**
+**Programmer | Apex Systems (_JUN 2006 - DEC 2006_)**
+**Programmer | IPC Information Systems (_OCT 2005 - JUN 2006_)**
 
 ## 📜Certifications
 - [Microsoft Certified: DevOps Engineer Expert](https://learn.microsoft.com/api/credentials/share/en-us/MikeD-8750/AF29B8E9280E8048?sharingId=9CA6C023000B6A06)
