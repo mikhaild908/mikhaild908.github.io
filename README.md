@@ -20,7 +20,7 @@
 - BS Geodetic Engineering - University of the Philippines - Quezon City, Philippines (_APR 2004_)
 - Client/Server Programming and Web Development - Skidmore College Computer Career Institute - White Plains, NY (_MAR 2001_)
 
-## 💼 Work experience
+## 💼 Work Experience
 - Senior Software Engineer - TransPerfect (_JUL 2023 - Present_)
 - Senior Software Engineer - DriveTime (_MAY 2022 - JUL 2023_)
 - Senior Software Engineer - TechStyle Fashion Group (_NOV 2018 - MAY 2022_)
