@@ -15,8 +15,10 @@
 - Python 
 - Powershell
   
-## 🎓 Education
-- **Bachelor of Science**, Geodetic Engineering | <a href="https://upd.edu.ph/" target="_blank">University of the Philippines - Diliman</a> (_APR 2004_)		  		
+## 🎓 Education and Training
+- **Sun Java Programming(SL-275)** | Sun Microsystems - Makati City, Philippines (_JUL 2004_)
+- **Bachelor of Science in Geodetic Engineering** | <a href="https://upd.edu.ph/" target="_blank">University of the Philippines Diliman - Quezon City, Philippines</a> (_APR 2004_)
+- **Client/Server Programming and Web Development** | Skidmore College Computer Career Institute - White Plains, NY, USA (_MAR 2001_)
 
 ## 💼 Work experience 
 
@@ -28,7 +30,6 @@
 - [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/MikeD-8750/5AF88A5518DB1C7C?sharingId=9CA6C023000B6A06)
 - [GitHub Copilot](https://learn.microsoft.com/api/credentials/share/en-us/MikeD-8750/6A8F34840D1753CA?sharingId=9CA6C023000B6A06)
 - Microsoft Specialist: Programming in HTML5 with JavaScript and CSS3
-- Microsoft Certified Professional
 - Xamarin Certified Mobile Developer
 
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/MikeD-8750/5AF88A5518DB1C7C?sharingId=9CA6C023000B6A06"><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="100" alt="Azure Fundamentals"/></a>
