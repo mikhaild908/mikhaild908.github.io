@@ -32,11 +32,11 @@
 - **Programmer | IPC Information Systems (_OCT 2005 - JUN 2006_)**
 
 ## 📜 Certifications
-- [Microsoft Certified: DevOps Engineer Expert](https://learn.microsoft.com/api/credentials/share/en-us/MikeD-8750/AF29B8E9280E8048?sharingId=9CA6C023000B6A06){:target="_blank"}
-- [Microsoft Certified: Azure Developer Associate](https://learn.microsoft.com/api/credentials/share/en-us/MikeD-8750/706721BE71E1981C?sharingId=9CA6C023000B6A06){:target="_blank"}
-- [Microsoft Certified: Azure Data Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/MikeD-8750/EC41C2526F574B88?sharingId=9CA6C023000B6A06){:target="_blank"}
-- [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/MikeD-8750/5AF88A5518DB1C7C?sharingId=9CA6C023000B6A06){:target="_blank"}
-- [GitHub Copilot](https://learn.microsoft.com/api/credentials/share/en-us/MikeD-8750/6A8F34840D1753CA?sharingId=9CA6C023000B6A06){:target="_blank"}
+- [Microsoft Certified: DevOps Engineer Expert](https://learn.microsoft.com/api/credentials/share/en-us/MikeD-8750/AF29B8E9280E8048?sharingId=9CA6C023000B6A06)
+- [Microsoft Certified: Azure Developer Associate](https://learn.microsoft.com/api/credentials/share/en-us/MikeD-8750/706721BE71E1981C?sharingId=9CA6C023000B6A06)
+- [Microsoft Certified: Azure Data Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/MikeD-8750/EC41C2526F574B88?sharingId=9CA6C023000B6A06)
+- [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/MikeD-8750/5AF88A5518DB1C7C?sharingId=9CA6C023000B6A06)
+- [GitHub Copilot](https://learn.microsoft.com/api/credentials/share/en-us/MikeD-8750/6A8F34840D1753CA?sharingId=9CA6C023000B6A06)
 - Microsoft Specialist: Programming in HTML5 with JavaScript and CSS3
 - Xamarin Certified Mobile Developer
 
@@ -47,7 +47,7 @@
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/MikeD-8750/6A8F34840D1753CA?sharingId=9CA6C023000B6A06" target="_blank"><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/github-copilot.svg" width="100" alt="GitHub Copilot"/></a>
 
 ## 📁 Fun Projects
-- [Projects](http://miked-projects.s3-website-us-west-2.amazonaws.com/)
+- [Fun Projects](http://miked-projects.s3-website-us-west-2.amazonaws.com/)
 
 ## 📞 Contact
 [![GitHub](icons8-github-100.png)](https://github.com/mikhaild908)
