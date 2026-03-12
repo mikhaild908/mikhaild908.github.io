@@ -26,7 +26,7 @@
 - Senior Software Engineer - TechStyle Fashion Group (_NOV 2018 - MAY 2022_)
 - Senior Consultant - Neudesic (_NOV 2013 - NOV 2018_)
 - Senior Programmer - Karsten Manufacturing(Ping Golf) (_AUG 2010 - NOV 2013_)
-- Programmer - Attainia (_MAR 2009 - AUG 2010_)**
+- Programmer - Attainia (_MAR 2009 - AUG 2010_)
 - Programmer - Karsten Manufacturing(Ping Golf) (_JAN 2007 - MAR 2009_)
 - Programmer - Apex Systems (_JUN 2006 - DEC 2006_)
 - Programmer - IPC Information Systems (_OCT 2005 - JUN 2006_)
