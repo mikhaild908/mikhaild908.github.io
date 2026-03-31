@@ -46,8 +46,13 @@
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/MikeD-8750/AF29B8E9280E8048?sharingId=9CA6C023000B6A06" target="_blank"><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg" width="100" alt="DevOps Engineer Expert"/></a>
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/MikeD-8750/6A8F34840D1753CA?sharingId=9CA6C023000B6A06" target="_blank"><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/github-copilot.svg" width="100" alt="GitHub Copilot"/></a>
 
-## 📁 Fun Projects
+## 🗃️ Fun Projects
 - [Fun Projects](http://miked-projects.s3-website-us-west-2.amazonaws.com/)
+- [Sliding Puzzle](https://mikhaild908.github.io/SlidingPuzzle/)
+- [Tic-Tac-Toe](https://mikhaild908.github.io/tictactoe/)
+- [Meteor Storm](https://mikhaild908.github.io/meteor-storm/)
+- [Pop-a-poppable](https://mikhaild908.github.io/pop-a-poppable/)
+- [Spirograph Generator](https://mikhaild908.github.io/react-spirograph-generator/)
 
 ## 📞 Contact
 [![GitHub](icons8-github-100.png)](https://github.com/mikhaild908)
