@@ -54,6 +54,7 @@
 - [Pop-a-poppable](https://mikhaild908.github.io/pop-a-poppable/)
 - [Spirograph Generator](https://mikhaild908.github.io/react-spirograph-generator/)
 - [Convert Words to Number](https://mikhaild908.github.io/convert-words-to-number/)
+- [Black Jack](https://mikhaild908.github.io/black-jack/)
 
 ## 📞 Contact
 [![GitHub](icons8-github-100.png)](https://github.com/mikhaild908)
