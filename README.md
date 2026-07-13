@@ -21,7 +21,8 @@
 - Client/Server Programming and Web Development - Skidmore College Computer Career Institute - White Plains, NY (_MAR 2001_)
 
 ## 💼 Work Experience
-- Senior Software Engineer - TransPerfect (_JUL 2023 - Present_)
+- Senior Application Developer - Populus Group (_APR 2026 - Present_)
+- Senior Software Engineer - TransPerfect (_JUL 2023 - APR 2026_)
 - Senior Software Engineer - DriveTime (_MAY 2022 - JUL 2023_)
 - Senior Software Engineer - TechStyle Fashion Group (_NOV 2018 - MAY 2022_)
 - Senior Consultant - Neudesic (_NOV 2013 - NOV 2018_)
