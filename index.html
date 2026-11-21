@@ -364,7 +364,7 @@
     .cert-card {
       position: relative;
       display: flex;
-      min-height: 200px;
+      min-height: 220px;
       flex-direction: column;
       justify-content: space-between;
       overflow: hidden;
@@ -376,6 +376,22 @@
       transition: border-color .25s ease, transform .25s ease;
     }
     .cert-card:hover { transform: translateY(-4px); border-color: var(--lime); }
+    .cert-card-header {
+      position: relative;
+      z-index: 1;
+      display: flex;
+      min-height: 64px;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1rem;
+    }
+    .cert-logo {
+      display: block;
+      width: 64px;
+      height: 64px;
+      flex: 0 0 auto;
+      object-fit: contain;
+    }
     .cert-card::after {
       position: absolute;
       right: -1.8rem;
@@ -629,19 +645,19 @@
         </div>
         <div class="cert-featured">
           <a class="cert-card" href="https://learn.microsoft.com/api/credentials/share/en-us/MikeD-8750/AF29B8E9280E8048?sharingId=9CA6C023000B6A06" target="_blank" rel="noopener noreferrer">
-            <span class="cert-label">Microsoft · Expert</span><h3>DevOps Engineer Expert</h3><span class="project-link">Verify credential <span class="arrow" aria-hidden="true">↗</span></span>
+            <div class="cert-card-header"><span class="cert-label">Microsoft · Expert</span><img class="cert-logo" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg" alt="Microsoft Certified Expert badge" loading="lazy" decoding="async"></div><h3>DevOps Engineer Expert</h3><span class="project-link">Verify credential <span class="arrow" aria-hidden="true">↗</span></span>
           </a>
           <a class="cert-card" href="https://learn.microsoft.com/api/credentials/share/en-us/MikeD-8750/706721BE71E1981C?sharingId=9CA6C023000B6A06" target="_blank" rel="noopener noreferrer">
-            <span class="cert-label">Microsoft · Associate</span><h3>Azure Developer Associate</h3><span class="project-link">Verify credential <span class="arrow" aria-hidden="true">↗</span></span>
+            <div class="cert-card-header"><span class="cert-label">Microsoft · Associate</span><img class="cert-logo" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" alt="Microsoft Certified Associate badge" loading="lazy" decoding="async"></div><h3>Azure Developer Associate</h3><span class="project-link">Verify credential <span class="arrow" aria-hidden="true">↗</span></span>
           </a>
           <a class="cert-card" href="https://learn.microsoft.com/api/credentials/share/en-us/MikeD-8750/EC41C2526F574B88?sharingId=9CA6C023000B6A06" target="_blank" rel="noopener noreferrer">
-            <span class="cert-label">Microsoft · Fundamentals</span><h3>Azure Data Fundamentals</h3><span class="project-link">Verify credential <span class="arrow" aria-hidden="true">↗</span></span>
+            <div class="cert-card-header"><span class="cert-label">Microsoft · Fundamentals</span><img class="cert-logo" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="Microsoft Certified Fundamentals badge" loading="lazy" decoding="async"></div><h3>Azure Data Fundamentals</h3><span class="project-link">Verify credential <span class="arrow" aria-hidden="true">↗</span></span>
           </a>
           <a class="cert-card" href="https://learn.microsoft.com/api/credentials/share/en-us/MikeD-8750/5AF88A5518DB1C7C?sharingId=9CA6C023000B6A06" target="_blank" rel="noopener noreferrer">
-            <span class="cert-label">Microsoft · Fundamentals</span><h3>Azure Fundamentals</h3><span class="project-link">Verify credential <span class="arrow" aria-hidden="true">↗</span></span>
+            <div class="cert-card-header"><span class="cert-label">Microsoft · Fundamentals</span><img class="cert-logo" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="Microsoft Certified Fundamentals badge" loading="lazy" decoding="async"></div><h3>Azure Fundamentals</h3><span class="project-link">Verify credential <span class="arrow" aria-hidden="true">↗</span></span>
           </a>
           <a class="cert-card" href="https://learn.microsoft.com/api/credentials/share/en-us/MikeD-8750/6A8F34840D1753CA?sharingId=9CA6C023000B6A06" target="_blank" rel="noopener noreferrer">
-            <span class="cert-label">GitHub</span><h3>GitHub Copilot</h3><span class="project-link">View credential <span class="arrow" aria-hidden="true">↗</span></span>
+            <div class="cert-card-header"><span class="cert-label">GitHub</span><img class="cert-logo" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/github-copilot.svg" alt="GitHub Copilot badge" loading="lazy" decoding="async"></div><h3>GitHub Copilot</h3><span class="project-link">View credential <span class="arrow" aria-hidden="true">↗</span></span>
           </a>
         </div>
         <div class="cert-other" aria-label="Additional certifications">
